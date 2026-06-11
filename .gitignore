@@ -1,1 +1,3 @@
-\Storage\.env
+*.env
+.env
+Storage/.env
