@@ -1,4 +1,4 @@
-# Verification (Discord Bot)
+# Leaf Bot (Discord Bot)
 
 Check out the Terms of Service and Privacy Policy below:
 
