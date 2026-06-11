@@ -1,1 +1,1 @@
-# [INDEX](https://leafbyte-studios.github.io/Verification_Discord-Bot/)
+# [INDEX](https://leafbyte-interactive.github.io/Leaf_Bot/)
