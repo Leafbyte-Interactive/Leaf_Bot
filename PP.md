@@ -1,16 +1,15 @@
 # Privacy Policy
 **Verification**  
-Last updated: 6th February 2026
+Last updated: Thursday, 11th June 2026
 
 ## 1. Information We Collect
-Leaf may collect and store the following data:
+Leaf Bot may collect and store the following data:
 - User IDs  
 - Server (Guild) IDs  
 - Role IDs  
 
 ## 2. How Data Is Used
 Collected data is used solely to:
-- Provide verification functionality  
 - Maintain logs and records  
 - Ensure proper operation of the Application  
 
